@@ -20,4 +20,4 @@
   display: none;
 }
 
-#wall .parent 
+#wall .parent div:last-child div:first-of-type
