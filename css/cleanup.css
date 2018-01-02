@@ -24,6 +24,6 @@
   display: none;
 }
 
- #wall .parent div:first-child div#tag-7.slick {
+ #wall .parent div:first-child div:first-of-type#tag-7.slick {
   display: none;
 }
